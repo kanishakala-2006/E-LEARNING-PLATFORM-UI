@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Course Details</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<div class="logo">E-Learn</div>
+<nav>
+<a href="index.html">Courses</a>
+<a href="course.html">My Learning</a>
+</nav>
+</header>
+
+<section class="course-detail">
+<h2>Web Development Course</h2>
+
+<div class="video-container">
+<iframe width="100%" height="400" 
+src="https://www.youtube.com/embed/UB1O30fR-EE" 
+allowfullscreen></iframe>
+</div>
+
+<div class="progress-section">
+<h3>Your Progress</h3>
+<div class="progress-bar">
+<div class="progress" id="progress"></div>
+</div>
+<button onclick="increaseProgress()" class="btn">Mark Lesson Complete</button>
+</div>
+
+</section>
+
+<footer>
+<p>© 2026 E-Learn Platform</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
