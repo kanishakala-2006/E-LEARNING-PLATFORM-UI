@@ -27,3 +27,7 @@ The user interface is designed to be simple, modern, and responsive. A navigatio
 Although this version of the platform focuses only on front-end development, it effectively demonstrates the structure and functionality of a real-world e-learning system. It simulates how online education platforms manage courses, deliver video content, and track learner progress.
 
 In conclusion, the E-Learning Platform is an interactive and responsive web application that provides a structured digital learning environment. It combines course exploration, multimedia learning, and progress monitoring into a cohesive system. This project showcases fundamental web development skills and reflects the growing importance of online education in today’s digital world.
+
+
+output:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/68563e85-9a16-4f67-9a01-b578cfdaec47" />
